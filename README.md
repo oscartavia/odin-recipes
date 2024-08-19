@@ -6,6 +6,8 @@
 
 The [**Odin Recipes project**](https://www.theodinproject.com/lessons/foundations-recipes) is part of The Odin Project Foundations course. The purpose of this project is to strengthen basic HTML concepts like boilerplate format, elements (headers, paragraphs, ordered and unordered lists and anchors) and the correct use of references for images and hyperlinks.
 
+> See the live version for this repository [here](https://oscartavia.github.io/odin-recipes/)
+
 ### Project structure
 -The main page is a hub that should link to individual recipe pages.
 - Each recipe page should be self-contained.
