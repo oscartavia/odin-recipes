@@ -9,7 +9,7 @@ The [**Odin Recipes project**](https://www.theodinproject.com/lessons/foundation
 > See the live version for this repository [here](https://oscartavia.github.io/odin-recipes/)
 
 ### Project structure
--The main page is a hub that should link to individual recipe pages.
+- The main page is a hub that should link to individual recipe pages.
 - Each recipe page should be self-contained.
 - Each recipe should have a header, an image, a description, an unordered list of ingredients and an ordered list of steps to complete the recipe.
 
